@@ -24,4 +24,3 @@ public class Program {
         }
     }
 }
-// some text too
