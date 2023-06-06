@@ -1,1 +1,1 @@
-# githw_1 first and second hw
+# githw_1
